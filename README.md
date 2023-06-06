@@ -1,10 +1,8 @@
 # Predicting-Ad-Click-using-Logistic-Regression
 Machine Learning Project: Predicting if the user will click on the Ad using Logistic Regression. 
 
-#### The dataset consists of the following features:
-
-'Daily Time Spent on Site': consumer time on site in minutes
-
+#### The dataset consists of the following features: <br\>
+'Daily Time Spent on Site': consumer time on site in minutes <br\>
 'Age': cutomer age in years
 
 'Area Income': Avg. Income of geographical area of consumer
